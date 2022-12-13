@@ -241,7 +241,7 @@ jobs:
 
   build_ios:
     name: iOS
-    runs-on: macos-11
+    runs-on: macos-12
     steps:
     - name: use python3.9
       run: |
